@@ -1,0 +1,16 @@
+5.5
+ERORE
+
+True
+False
+ERORE
+
+ERORE
+ERORE
+
+ERORE
+ERORE
+ERORE
+
+18.0
+ERORE
